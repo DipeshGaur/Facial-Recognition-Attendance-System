@@ -1,0 +1,8 @@
+---Code Requirements---
+Python 3.6+
+Opencv(pip install opencv-python)
+Tkinter(Available in python)
+PIL (pip install Pillow)
+Pandas(pip install pandas)
+Numpy(pip install numpy)
+Pillow (pip install Pillow)

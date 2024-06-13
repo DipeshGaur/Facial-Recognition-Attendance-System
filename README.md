@@ -10,3 +10,6 @@ Features:
 - User Management: Allows adding and managing users in the system.
 - Attendance Reports: Generates detailed attendance reports for analysis.
 - Cross-Platform: Compatible with multiple operating systems
+
+# Install required dependencies
+pip install opencv-python pyttsx3
